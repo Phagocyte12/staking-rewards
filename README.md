@@ -63,7 +63,7 @@ transferForm
 1. MetaMask 钱包 需要”添加网络“ hardhat 测试链信息
    配置 Hardhat 测试链信息
    网络名称：可以自定义，比如 “Hardhat Local Network”。
-   新的 RPC URL：输入http://127.0.0.1:8545（这是 Hardhat 本地链的默认 RPC 地址）。
+   新的 RPC URL：输入http://127.0.0.1:8545 （这是 Hardhat 本地链的默认 RPC 地址）。
    链 ID：Hardhat 默认的链 ID 是 31337，可以填入 31337。
    区块浏览器 URL：由于是本地测试链，一般没有对应的区块浏览器，可留空。
 
